@@ -7,3 +7,6 @@ Installation instructions: This app is deployed live at this link: https://safe-
 Usage Info: This app was built using express and deployed on heroku. Follow the above link to utialize the application.
 
 Test Info: n/a
+
+![](/public/assets/images/newnote.png)
+![](/public/assets/images/savednotes.png)
