@@ -63,6 +63,7 @@ html, body {
 .list-container .list-group,
 .list-container .list-group-item,
 .list-container .card {
+    background-color: lavender;
     border-top: none;
     border-top-right-radius: 0;
     border-top-left-radius: 0;
