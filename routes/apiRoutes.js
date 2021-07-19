@@ -41,6 +41,6 @@ module.exports = function (app) {
     fs.writeFile("./db/db.json", JSON.stringify(objectsList), (err) => {
       if (err) throw err;
     });
-    res.end(); // Shorten the response
+    res.end();
   });
 };
