@@ -9,7 +9,7 @@ html, body {
 }
 
 .bg-dark {
-    background-color: rgb(53, 4, 165);
+    background-color: rgb(53, 4, 165) !important;
 }
   
 .save-note {
@@ -25,6 +25,7 @@ html, body {
   
 .note-textarea, 
 .note-title {
+    background-color: lavender;
     color: #000000;
     width: 100%;
     outline: none;
@@ -62,6 +63,7 @@ html, body {
 .list-container .list-group,
 .list-container .list-group-item:first-child,
 .list-container .card {
+    background-color: lavender;
     border-top: none;
     border-top-right-radius: 0;
     border-top-left-radius: 0;
